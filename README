@@ -1,1 +1,7 @@
-This repository contains the data used to create the figures from the numerical simulations of BSISO 2016. 
+This repository contains the data used to create the figures from the numerical simulations of BSISO 2016. Other public datasets are available:
+
+•	TRMM 3B42 precipitation data: https://pps.gsfc.nasa.gov/ .
+•	The ERA-Interim is available at ECMWF https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era-interim. 
+•	The OMI index (Kiladis et al. 2014): https://www.esrl.noaa.gov/psd/mjo/mjoindex/
+•	The BSISO1 index (Lee et al 2013): http://www.apcc21.org/ser/moni.do?lang=en. 
+•	The BSISO index (Kikuchi et al 2012): http://iprc.soest.hawaii.edu/users/kazuyosh/Bimodal_ISO.html
